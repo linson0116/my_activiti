@@ -16,7 +16,7 @@ public class ActivitiUtils {
         String resName = "helloworld";
         String depName = "helloworld入门程序";
         Deployment deployment = deploymentProcessDefinition(depName, resName);
-        System.out.println(deployment);
+        System.out.println(deployment);//
     }
 
     /**
