@@ -19,7 +19,7 @@ public class ActivitiUtils {
 
     @Test
     public void myTest() {
-//        String resName = "helloworld";
+//        String resName = "helloworld";//
 //        String depName = "hello";
 //        Deployment deployment = deploymentProcessDefinition(depName, resName);
 //        System.out.println(deployment);
